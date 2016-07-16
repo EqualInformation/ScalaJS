@@ -23,6 +23,7 @@ object SampleApp extends JSApp {
    jQuery("body").append("<p>Test program button click jQuery</p>")
   }
 
+  // Repo test - delete this line later
 
   // DOM based implementation - uncomment if you want to test DOM based solution, but jQuery uses DOM internally so...
 /*  def main(): Unit = {
